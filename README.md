@@ -1,4 +1,4 @@
 # DB_Concepts
 
 ##Activity_1
-/schema.png
+![image_alt](Schema.png)
